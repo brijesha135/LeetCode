@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1510-stone-game-iv](https://github.com/brijesha135/LeetCode/tree/master/1510-stone-game-iv) |
 | [1622-fancy-sequence](https://github.com/brijesha135/LeetCode/tree/master/1622-fancy-sequence) |
 ## Design
 |  |
@@ -26,9 +27,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1510-stone-game-iv](https://github.com/brijesha135/LeetCode/tree/master/1510-stone-game-iv) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/brijesha135/LeetCode/tree/master/1931-painting-a-grid-with-three-different-colors) |
 ## Graph Coloring
 |  |
 | ------- |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/brijesha135/LeetCode/tree/master/1931-painting-a-grid-with-three-different-colors) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/brijesha135/LeetCode/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/brijesha135/LeetCode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/brijesha135/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/brijesha135/LeetCode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/brijesha135/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
