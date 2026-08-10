@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/brijesha135/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/brijesha135/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/brijesha135/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Sorting
 |  |
