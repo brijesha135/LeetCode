@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/brijesha135/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/brijesha135/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Sorting
 |  |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/brijesha135/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/brijesha135/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
