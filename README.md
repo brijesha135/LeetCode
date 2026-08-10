@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1340-jump-game-v](https://github.com/brijesha135/LeetCode/tree/master/1340-jump-game-v) |
 | [1510-stone-game-iv](https://github.com/brijesha135/LeetCode/tree/master/1510-stone-game-iv) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/brijesha135/LeetCode/tree/master/1931-painting-a-grid-with-three-different-colors) |
 ## Graph Coloring
@@ -66,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/brijesha135/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [1340-jump-game-v](https://github.com/brijesha135/LeetCode/tree/master/1340-jump-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/brijesha135/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/brijesha135/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
+| [1340-jump-game-v](https://github.com/brijesha135/LeetCode/tree/master/1340-jump-game-v) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/brijesha135/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
