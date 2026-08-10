@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/brijesha135/LeetCode/tree/master/1622-fancy-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1931-painting-a-grid-with-three-different-colors](https://github.com/brijesha135/LeetCode/tree/master/1931-painting-a-grid-with-three-different-colors) |
+## Graph Coloring
+|  |
+| ------- |
+| [1931-painting-a-grid-with-three-different-colors](https://github.com/brijesha135/LeetCode/tree/master/1931-painting-a-grid-with-three-different-colors) |
 <!---LeetCode Topics End-->
