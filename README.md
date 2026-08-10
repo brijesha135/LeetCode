@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1340-jump-game-v](https://github.com/brijesha135/LeetCode/tree/master/1340-jump-game-v) |
 | [1510-stone-game-iv](https://github.com/brijesha135/LeetCode/tree/master/1510-stone-game-iv) |
+| [1871-jump-game-vii](https://github.com/brijesha135/LeetCode/tree/master/1871-jump-game-vii) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/brijesha135/LeetCode/tree/master/1931-painting-a-grid-with-three-different-colors) |
 ## Graph Coloring
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/brijesha135/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1871-jump-game-vii](https://github.com/brijesha135/LeetCode/tree/master/1871-jump-game-vii) |
 ## Backtracking
 |  |
 | ------- |
@@ -86,9 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1871-jump-game-vii](https://github.com/brijesha135/LeetCode/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/brijesha135/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/brijesha135/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/brijesha135/LeetCode/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
