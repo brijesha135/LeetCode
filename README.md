@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/brijesha135/LeetCode/tree/master/1510-stone-game-iv) |
 | [1622-fancy-sequence](https://github.com/brijesha135/LeetCode/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/brijesha135/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/brijesha135/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Design
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/brijesha135/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/brijesha135/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3093-longest-common-suffix-queries](https://github.com/brijesha135/LeetCode/tree/master/3093-longest-common-suffix-queries) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/brijesha135/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Sorting
 |  |
 | ------- |
