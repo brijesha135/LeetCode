@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/brijesha135/LeetCode/tree/master/1340-jump-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/brijesha135/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/brijesha135/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/brijesha135/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3093-longest-common-suffix-queries](https://github.com/brijesha135/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/brijesha135/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Sorting
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1340-jump-game-v](https://github.com/brijesha135/LeetCode/tree/master/1340-jump-game-v) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/brijesha135/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/brijesha135/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/brijesha135/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/brijesha135/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/brijesha135/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Trie
