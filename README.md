@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/brijesha135/LeetCode/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/brijesha135/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/brijesha135/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+## Simulation
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/brijesha135/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
